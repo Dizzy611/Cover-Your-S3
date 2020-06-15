@@ -4,3 +4,4 @@
 *.zip
 *.o
 *.pyc
+s3cmd-freeze/dist/
