@@ -1,0 +1,6 @@
+*.exe
+*.pyd
+*.dll
+*.zip
+*.o
+*.pyc
