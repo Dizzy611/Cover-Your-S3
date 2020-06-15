@@ -1,0 +1,3 @@
+[submodule "s3cmd-freeze/s3cmd"]
+	path = s3cmd-freeze/s3cmd
+	url = https://github.com/s3tools/s3cmd
