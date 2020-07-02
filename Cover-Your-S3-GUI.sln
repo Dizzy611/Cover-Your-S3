@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cover-Your-S3-GUI", "Cover-Your-S3-GUI\Cover-Your-S3-GUI.csproj", "{3CEB7FFB-B121-465F-98F5-19F59F3446B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CEB7FFB-B121-465F-98F5-19F59F3446B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEB7FFB-B121-465F-98F5-19F59F3446B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEB7FFB-B121-465F-98F5-19F59F3446B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEB7FFB-B121-465F-98F5-19F59F3446B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E222E4-FC96-449C-B51C-C8196E9B8780}
+	EndGlobalSection
+EndGlobal
